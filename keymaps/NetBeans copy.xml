@@ -1,0 +1,6 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+</keymap>
